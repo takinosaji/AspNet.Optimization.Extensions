@@ -1,0 +1,20 @@
+﻿{
+  "version": "1.0.0",
+  "description": "AspNet.Optimization.Extensions Class Library",
+  "authors": [ "TakinosaJi" ],
+  "tags": [ "aspnet", "optimization" ],
+  "projectUrl": "https://github.com/takinosaji/AspNet.Optimization.Extensions",
+  "licenseUrl": "https://github.com/takinosaji/AspNet.Optimization.Extensions/blob/master/LICENSE",
+  "frameworks": {
+    "net451": {
+      "dependencies": {
+        "Microsoft.AspNet.Web.Optimization": "1.1.3"
+      }
+    },
+    "net461": {
+      "dependencies": {
+        "Microsoft.AspNet.Web.Optimization": "1.1.3"
+      }
+    }
+  }
+}
